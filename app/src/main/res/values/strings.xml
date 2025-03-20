@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoffeShop</string>
+    <string name="Caffee_Mocha">Caffee Mocha</string>
+    <string name="Deep_Foam">Deep Foam</string>
+    <string name="Flat_White">Flat White</string>
+    <string name="Espresso">Espresso</string>
+    <string name="Mocha_Price">$ 4.53</string>
+    <string name="Flat_White_Price">$ 3.53</string>
+    <string name="description">A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the fo…</string>
+    <string name="extendedDescription">A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85 ml of fresh milk. It is known for its balanced mix of bold espresso flavor and creamy milk texture. Often topped with a layer of foam or cocoa powder, it is a beloved choice for coffee enthusiasts around the world.</string>
+</resources>
