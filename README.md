@@ -36,16 +36,6 @@ Navigation Component
 
 Git for Version Control
 
-📂 Project Structure
-
-📦 Coffee-App
-├── 📁 app
-│   ├── 📁 bottomnav        
-│   ├── 📁 categoryscreen       
-│   ├── 📁 viewmodel  
-│   ├── MainActivity.kt
-│   ├── ...
-
 📌 How to Run
 
 Clone the repository:
